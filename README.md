@@ -1,2 +1,2 @@
-# Amberg
+# amberg
 Testing
